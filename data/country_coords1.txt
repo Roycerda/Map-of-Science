@@ -1,0 +1,7 @@
+Country,LT,LG
+Australia,-25.274398,133.775136	
+Brazil,-14.235004,-51.92528	
+China,35.86166,104.195397	
+Norway,60.472024,8.468946	
+United States,37.09024,-95.712891	
+United Kingdom,55.378051,-3.435973	
